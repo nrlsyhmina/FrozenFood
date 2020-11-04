@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=FrozenFood
+comment1.params=fN\ aC
+comment1.target=FrozenFood(java.lang.String,\ double)
+comment2.params=
+comment2.target=java.lang.String\ getFoodName()
+comment3.params=
+comment3.target=double\ getAmountCharge()
+comment4.params=
+comment4.target=double\ calcGovTax()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
